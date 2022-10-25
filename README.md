@@ -42,3 +42,7 @@ This course has been tested on the following system configuration:
 
 * [Spring Security LDAP Integration and SAML Extension [Video]](https://www.packtpub.com/application-development/spring-security-ldap-integration-and-saml-extension-video?utm_source=github&utm_medium=repository&utm_campaign=9781787285538)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789802931">https://packt.link/free-ebook/9781789802931 </a> </p>
